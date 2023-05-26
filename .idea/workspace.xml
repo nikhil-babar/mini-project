@@ -4,23 +4,49 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="442936bf-a04a-46c1-96cc-179d56e8a7cf" name="Changes" comment="" />
+    <list default="true" id="442936bf-a04a-46c1-96cc-179d56e8a7cf" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Module/Modulev1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Mouse/index.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PptControl/index.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Screenshot/module.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Screenshot/ui.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Volume/index.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CustomThread.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Screenshot.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/handtracking.py" beforeDir="false" afterPath="$PROJECT_DIR$/Module/Modulev2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="2OKuRnupqqf7yvIW2oIX6M7hGwc" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "last_opened_file_path": "C:/Users/nikhil bhimrao babar/handtracking"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/nikhil bhimrao babar/handtracking&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable&quot;
   }
-}]]></component>
+}</component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\nikhil bhimrao babar\handtracking\Module" />
+      <recent name="C:\Users\nikhil bhimrao babar\handtracking" />
+      <recent name="C:\Users\nikhil bhimrao babar\handtracking\Screenshot" />
+    </key>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">

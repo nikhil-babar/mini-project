@@ -1,12 +1,10 @@
 import threading
 
-from handtracking import HandTracking
 from threading import Thread
 import os
 import pyautogui
 from uuid import uuid4 as uid
 
-tracker = HandTracking()
 tips = [4, 8, 12, 16, 20]
 fingerStatus = []
 isThreeFingerGesture = False
